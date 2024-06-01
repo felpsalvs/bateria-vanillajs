@@ -1,32 +1,19 @@
-# Kit Bateria
+# Battery Kit
 
 ![image](https://user-images.githubusercontent.com/78622458/172721115-49811ba7-8884-44cc-b55e-44822aeb778e.png)
 
 
-### 🔖 Sobre
-Obtive um aprendizado muito bacana com o Vanilla JS (JavaScript Puro) criando um kit de bateria que usa somente teclas, para simular um instrumento musical. 
-A ideia é que ele seja usado com as teclas e não o mouse, se tentar usar com o celular provavelmente não irá funcionar.
+### 🔖 About
+I learned a lot with Vanilla JS (Pure JavaScript) by creating a drum kit that uses only keys, to simulate a musical instrument.
+The idea is that it is used with the keys and not the mouse, if you try to use it with your cell phone it probably won't work.
 
 1/30
 
 https://JavaScript30.com
 
-### 🚀 Tecnologias
-Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
+### 🚀 Technologies
+This project was developed using the following technology:
 
 + Html 5
-+ Css 3
++ CSS 3
 + JavaScript
-
-### ⚡ Como ver
-
-Link da demo: https://kit-de-bateria.vercel.app/<br/>
-### Autor
-Felipe Alves <br/><br/>
-
-
-Entre em contato comigo, para conexão, sugestão ou dúvida! <br/>
-
-profelipealves@outlook.com <br/>
-
-https://www.linkedin.com/in/felipealves-/
